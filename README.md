@@ -126,9 +126,7 @@ to stable, well-calibrated problems where magnitude carries signal.
 ## Paper
 
 The accompanying paper, *Exact Invariance from Rank-Coordinate Scoring:
-Differentiable Ranking Without Permutation Relaxation*, is included as
-`paper_invariance.pdf` with LaTeX source in `paper_invariance.tex`.
-
+Differentiable Ranking Without Permutation Relaxation* , will be provided.
 ## Citation
 
 ```bibtex
